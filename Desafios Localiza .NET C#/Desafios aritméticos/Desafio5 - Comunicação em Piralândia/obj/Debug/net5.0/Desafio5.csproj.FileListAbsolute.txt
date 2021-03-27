@@ -1,0 +1,16 @@
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.csprojAssemblyReference.cache
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.AssemblyInfoInputs.cache
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.AssemblyInfo.cs
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.csproj.CoreCompileInputs.cache
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\Desafio5.exe
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\Desafio5.deps.json
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\Desafio5.runtimeconfig.json
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\Desafio5.runtimeconfig.dev.json
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\Desafio5.dll
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\ref\Desafio5.dll
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\bin\Debug\net5.0\Desafio5.pdb
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.dll
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\ref\Desafio5.dll
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.pdb
+C:\Users\evand\Documents\bootcamp localiza\exercicios propostos\Desafio5\obj\Debug\net5.0\Desafio5.genruntimeconfig.cache
